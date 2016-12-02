@@ -1,10 +1,10 @@
-# 仿微博热门的列表悬停效果
+# Android 仿微博热门的列表悬停效果
 仿微博热门的列表悬停效果， 点击返回回到顶部
 
 
 - **效果图：**
 
-![Alt Text]([https://github.com/ChelseaMah/hoveringlist/blob/master/app/images/hover_list_demo.gif | height = 360px ])
+![Alt Text]([[https://github.com/ChelseaMah/hoveringlist/blob/master/app/images/hover_list_demo.gif | height = 360px]])
 
 -**说明**
 
