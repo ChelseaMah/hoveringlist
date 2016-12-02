@@ -4,7 +4,7 @@
 
 - **效果图：**
 
-![Alt Text]([https://github.com/ChelseaMah/hoveringlist/blob/master/app/images/hover_list_demo.gif | height = 360px])
+![Alt Text]([https://github.com/ChelseaMah/hoveringlist/blob/master/app/images/hover_list_demo.gif)
 
 -**说明**
 
